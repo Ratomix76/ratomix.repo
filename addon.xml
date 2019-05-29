@@ -1,0 +1,16 @@
+﻿?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.ratomix2"
+       name="Ratomix2"
+       version="1.3"
+       provider-name="Ratomix2">
+	<extension point="xbmc.addon.repository" name="repository.ike">
+		<info compressed="false">http://raw.github.com/ikesuncat/repository.ike/master/addons.xml</info>
+		<checksum>http://raw.github.com/ikesuncat/repository.ike/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/ikesuncat/repository.ike/master/repo/</datadir>
+	</extension>
+ <extension point="xbmc.addon.metadata">
+    <summary lang="en">Add-On Ratomixaddon </summary>
+    <description lang="en">Add-On teste Ratomix2</description>
+    <platform>all</platform>
+  </extension>
+</addon>
